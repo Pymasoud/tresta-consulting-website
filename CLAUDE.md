@@ -28,6 +28,7 @@ Primary goals:
 - No buzzwords
 
 ## Rules
+- Default response language: Swedish
 - Do NOT suggest new tools unless explicitly asked
 - Do NOT redesign unless requested
 - Prefer small, focused edits
